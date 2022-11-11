@@ -8,4 +8,6 @@
 - The program allows a user to enter a code, encrypt the number and compare it to an authorised access code.
 - The program should also allow the user to decrypt an already encrypted code.
 - All functions pass parameters using Pass by Reference.
-- All reading and writing to/from arrays use pointer notation .
+- All reading and writing to/from arrays use pointer notation.
+
+(Indentation is a bit wonky on github, ignore it)
