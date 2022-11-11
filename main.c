@@ -4,9 +4,9 @@ Starting Date: 19/02/2021
 Last Edited: 25/02/2021
 
 Description:
-This program allows the user to enter in a code
-encrypt it and check if it's the same as the access code
-display how many times the encrypted code was the same as the access code and the amount of times is wasn't
+This program allows the user to enter in a code.
+Encrypt the coe and check if it's the same as the access code.
+Display how many times the encrypted code was the same as the access code and the amount of times is wasn't.
 A user can't encrypt or decrypt their code twice.
 A user can encrypt and decrypt the same code repetitively, however a user can only get the same code correct or incorrect once.
 
