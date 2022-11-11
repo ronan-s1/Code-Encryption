@@ -1,3 +1,3 @@
-# Code-Encryption
+# Code-Security-Authenitication
 
-Year 1 C Programming Project 
+## Year 1 C Programming Project 
