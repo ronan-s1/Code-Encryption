@@ -1,6 +1,6 @@
 # Code-Security-Authenitication
 
-## Year 1 C Programming Project 
+## Year 1 Programming Project 
 
 ### Description
 - A security authentication program based on an access code.
